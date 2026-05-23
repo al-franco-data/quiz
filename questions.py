@@ -25,7 +25,7 @@ questions = [
     
     {
         "category": "coding.history",
-        "prompt": "What year did Al first program in BASIC on a new Commodore 64?",
+        "prompt": "What year did Al first write a BASIC program on a new Commodore 64, with no way to save it?",
         "answers": {
             "A": "1979",
             "B": "1986",
@@ -34,10 +34,22 @@ questions = [
         },
         "correct_answer": "B"
     },
+
+    {
+        "category": "coding.history",
+        "prompt": "What year did Al first type in a hexadecimal ML program from COMPUTE magazine, with no storage ability?",
+        "answers": {
+            "A": "1986",
+            "B": "1987",
+            "C": "1988",
+            "D": "1989"
+        },
+        "correct_answer": "A"
+    },
     
     {
         "category": "coding.history",
-        "prompt": "What year did Al first use a Datasette as first storage?",
+        "prompt": "What year did Al first use a Datasette as his first storage?",
         "answers": {
             "A": "1985",
             "B": "1986",
@@ -49,7 +61,7 @@ questions = [
     
     {
         "category": "coding.history",
-        "prompt": "What year did Al first use a local BBS, as Sphinx?",
+        "prompt": "What year did Al first use a local BBS, as Sphinx, using a 300 baud modem?",
         "answers": {
             "A": "1985",
             "B": "1987",
@@ -58,22 +70,10 @@ questions = [
         },
         "correct_answer": "B"
     },
-        
-    {
-        "category": "coding.history",
-        "prompt": "What year did Al first type in a hexadecimal program?",
-        "answers": {
-            "A": "1979",
-            "B": "1985",
-            "C": "1986",
-            "D": "1987"
-        },
-        "correct_answer": "D"
-    },
 
     {
         "category": "coding.history",
-        "prompt": "What year did Al begin a typing class that used typewriters?",
+        "prompt": "What year did Al begin a typing class that used a real typewriters?",
         "answers": {
             "A": "1986",
             "B": "1988",
@@ -265,7 +265,7 @@ questions = [
         
     {
         "category": "coding.history",
-        "prompt": "What year did Al first call from iPhone via satellite?",
+        "prompt": "What year did Al first text from iPhone via satellite?",
         "answers": {
             "A": "1976",
             "B": "1992",
