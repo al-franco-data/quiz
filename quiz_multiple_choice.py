@@ -41,8 +41,8 @@ def play_question(question, calculate_points):
 
         if len(available_choices) > 0:
             points_now = calculate_points(wrong_answers)
-            print("---  Wrong answer!  ---")
             print()
+            print("---  Wrong answer!  ---")
             print("A correct answer is now worth", points_now, "points!")
             print()
 
