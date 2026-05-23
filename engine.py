@@ -1,6 +1,7 @@
 # Quiz Master
-# This is a quiz project challenge with two friends.
-# Goal: write code that can later be repurposed as modules.
+# This is a quiz project challenge amongst three friends.
+# Goal: write a multiple choice quiz.
+# MyGoal: write code that can later be repurposed as modules.
 
 from questions import questions
 from quiz_multiple_choice import play_quiz
