@@ -1,5 +1,7 @@
 # Quiz Master
 
+print ("")
+
 print("Quiz Master 2026")
 
 print("  by Al Franco")
