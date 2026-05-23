@@ -20,7 +20,10 @@ def play_question(question, calculate_points):
     wrong_answers = 0
 
     print()
+    print("=====================================")
+    print("NEW QUESTION:")
     print("A correct answer is worth 100 points.")
+    print("=====================================")
 
     while len(available_choices) > 0:
         show_question(question, available_choices)
@@ -28,7 +31,7 @@ def play_question(question, calculate_points):
 
         if choice == question["correct_answer"]:
             points = calculate_points(wrong_answers)
-            print("Correct!")
+            print("***  Correct!  ***")
             print("Points earned:", points)
             return points
 
@@ -37,8 +40,10 @@ def play_question(question, calculate_points):
 
         if len(available_choices) > 0:
             points_now = calculate_points(wrong_answers)
-            print("Wrong answer!")
+            print("---  Wrong answer!  ---")
+            print()
             print("A correct answer is now worth", points_now, "points!")
+            print()
 
     return 0
 
