@@ -51,12 +51,12 @@ questions = [
         "category": "coding.history",
         "prompt": "What year did Al first use a local BBS, as Sphinx?",
         "answers": {
-            "A": "1979",
-            "B": "1985",
-            "C": "1986",
-            "D": "1997"
+            "A": "1985",
+            "B": "1987",
+            "C": "1988",
+            "D": "1992"
         },
-        "correct_answer": "C"
+        "correct_answer": "B"
     },
         
     {
@@ -70,17 +70,29 @@ questions = [
         },
         "correct_answer": "D"
     },
+
+    {
+        "category": "coding.history",
+        "prompt": "What year did Al begin a typing class that used typewriters?",
+        "answers": {
+            "A": "1986",
+            "B": "1988",
+            "C": "1990",
+            "D": "1992"
+        },
+        "correct_answer": "B"
+    },
             
     {
         "category": "coding.history",
-        "prompt": "What year did Al first send useful coding via modem, to a friend?",
+        "prompt": "What year did Al first exchange useful coding via modem, with a friend?",
         "answers": {
-            "A": "1979",
-            "B": "1985",
-            "C": "1986",
-            "D": "1989"
+            "A": "1989",
+            "B": "1990",
+            "C": "1992",
+            "D": "1994"
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
 
     {
@@ -99,12 +111,12 @@ questions = [
         "category": "coding.history",
         "prompt": "What year did Al first buy his own computer...an Amiga 500?",
         "answers": {
-            "A": "1986",
-            "B": "1988",
-            "C": "1993",
+            "A": "1992",
+            "B": "1993",
+            "C": "1995",
             "D": "1997"
         },
-        "correct_answer": "C"
+        "correct_answer": "B"
     },
     
     {
@@ -147,24 +159,24 @@ questions = [
         "category": "coding.history",
         "prompt": "What year did Al first buy on eBay?",
         "answers": {
-            "A": "1985",
-            "B": "1986",
+            "A": "1986",
+            "B": "1993",
             "C": "1998",
-            "D": "1999"
+            "D": "2005"
         },
         "correct_answer": "C"
     },
     
     {
         "category": "coding.history",
-        "prompt": "What year is recollected as a multi-state trip using printed MapQuest?",
+        "prompt": "What year did Al drive on a multi-state I-40 trip using printed MapQuest directions?",
         "answers": {
-            "A": "1985",
-            "B": "1986",
-            "C": "1997",
-            "D": "1999"
+            "A": "1995",
+            "B": "1999",
+            "C": "2001",
+            "D": "2005"
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     
     {
@@ -193,26 +205,26 @@ questions = [
     
     {
         "category": "coding.history",
-        "prompt": "What year did Al start using an HTC Wizard (MDA), with slide mini-keyboard access?",
+        "prompt": "What year did Al start using an HTC Wizard (MDA) mobile phone, with slide mini-keyboard access?",
         "answers": {
-            "A": "1985",
-            "B": "1986",
-            "C": "2005",
-            "D": "2006"
+            "A": "1986",
+            "B": "1996",
+            "C": "2006",
+            "D": "2016"
         },
-        "correct_answer": "D"
+        "correct_answer": "C"
     },
     
     {
         "category": "coding.history",
         "prompt": "What year did Al switch from HTC to iPhone 3G, for his Mom who owned a 1st gen iPhone from the previous year?",
         "answers": {
-            "A": "1985",
-            "B": "1986",
-            "C": "2008",
-            "D": "2010"
+            "A": "2007",
+            "B": "2008",
+            "C": "2012",
+            "D": "2023"
         },
-        "correct_answer": "C"
+        "correct_answer": "B"
     },
 
     {
