@@ -1,14 +1,14 @@
 questions = [
     {
         "category": "coding.history",
-        "prompt": "Who created Python?",
+        "prompt": "What year did Guido van Rossum create Python?",
         "answers": {
-            "A": "Guido van Rossum",
-            "B": "Bill Gates",
-            "C": "Steve Jobs",
-            "D": "Linus Torvalds"
+            "A": "1985",
+            "B": "1987",
+            "C": "1989",
+            "D": "1992"
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     
     {
@@ -73,7 +73,7 @@ questions = [
 
     {
         "category": "coding.history",
-        "prompt": "What year did Al begin a typing class that used a real typewriters?",
+        "prompt": "What year did Al begin a typing class that used real typewriters?",
         "answers": {
             "A": "1986",
             "B": "1988",
@@ -193,7 +193,7 @@ questions = [
     
     {
         "category": "coding.history",
-        "prompt": "What year did Al open current eBay account?",
+        "prompt": "What year did Al open his current eBay account?",
         "answers": {
             "A": "1985",
             "B": "1986",
@@ -265,7 +265,7 @@ questions = [
         
     {
         "category": "coding.history",
-        "prompt": "What year did Al first text from iPhone via satellite?",
+        "prompt": "What year did Al first text someone--his Mom--from an iPhone via satellite?",
         "answers": {
             "A": "1976",
             "B": "1992",

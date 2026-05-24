@@ -58,3 +58,14 @@ def play_quiz(questions, calculate_points):
     print()
     print("Quiz complete!")
     print("Total score:", total_score)
+
+
+# This section lets this file run by itself.
+# It only runs when this file is started directly.
+# It does NOT run when menu.py imports this file.
+
+if __name__ == "__main__":
+    from questions import questions
+    from scoring_25p import calculate_points
+
+    play_quiz(questions, calculate_points)
