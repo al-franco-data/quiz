@@ -66,7 +66,7 @@ Editor: Zed, textedit
 
 Repository: GitHub & GitHub Desktop
 
-Portability Goal: macOS, Linux, and Windows when practical.f
+Portability Goal: macOS, Linux, and Windows when practical.
 
 
 The goal--from within any development environment--is to choose languages, file formats, commands, and project structures that can work across multiple operating systems with minimal changes. When system-specific differences are unavoidable, they should be clearly documented.
