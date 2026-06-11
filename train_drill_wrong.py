@@ -1,4 +1,9 @@
+# train_drill_wrong.py
+# this file trains by quizing questions and answers, then it repeats those that were answered icnorrectly
+
 def ask_training_question(question):
+    print()
+    print("-------------------------------")
     print()
     print(question["prompt"])
 
@@ -7,6 +12,8 @@ def ask_training_question(question):
 
     choice = input("Choose an answer: ").upper()
 
+    print()
+
     while choice not in question["answers"].keys():
         choice = input("Please choose a valid answer: ").upper()
 
@@ -14,6 +21,7 @@ def ask_training_question(question):
         print("*** Correct! ***")
         return True
     else:
+        print()
         print("--- Wrong answer. ---")
         return False
 
@@ -38,7 +46,7 @@ def play_train(questions):
         print("No drill needed.")
         return
 
-    input("Press ENTER to focus on those questions.")
+    _ = input("Press ENTER to focus on those questions.")
 
     for round_number in range(1, 3):
         print()

@@ -1,3 +1,7 @@
+# quiz_multiple_choice.py
+# this file asks a question, and provides four possible answers, one of which is correct.
+
+
 def show_question(question, available_choices):
     print()
     print(question["prompt"])
@@ -5,6 +9,8 @@ def show_question(question, available_choices):
     for letter in available_choices:
         print(letter + ".", question["answers"][letter])
 
+
+#  this section listens for the button press, accepts a valid choice, and returns that choice
 
 def get_choice(available_choices):
     choice = input("Choose an answer: ").upper()
@@ -29,10 +35,13 @@ def play_question(question, calculate_points):
         show_question(question, available_choices)
         choice = get_choice(available_choices)
 
+        print()
+
         if choice == question["correct_answer"]:
             points = calculate_points(wrong_answers)
             print()
             print("***  Correct!  ***")
+            print()
             print("Points earned:", points)
             return points
 
@@ -43,6 +52,7 @@ def play_question(question, calculate_points):
             points_now = calculate_points(wrong_answers)
             print()
             print("        ---  Wrong answer!  ---")
+            print()
             print("A correct answer is now worth", points_now, "points!")
             print()
 
@@ -57,6 +67,7 @@ def play_quiz(questions, calculate_points):
 
     print()
     print("Quiz complete!")
+    print()
     print("Total score:", total_score)
 
 

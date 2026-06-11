@@ -1,3 +1,6 @@
+# match_jeopardy.py
+# this file provides an answer in the form of a year, and the contestant or user must provide all correct questions that match that year
+
 from questions import questions
 import random
 
@@ -71,10 +74,15 @@ def ask_year_question(year, questions):
             if 0 <= index < len(options):
                 selected_questions.append(options[index])
 
+    print()
+
     if set(id(q) for q in selected_questions) == set(id(q) for q in correct_questions):
+        print()
         print("*** Correct! ***")
     else:
+        print()
         print("--- Not quite. ---")
+        print()
         print("Correct answers:")
         for question in correct_questions:
             print("-", question["prompt"])

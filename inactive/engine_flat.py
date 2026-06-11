@@ -14,7 +14,8 @@ def show_intro():
     print("  by Al Franco")
     print("   Sphinx1195")
     print()
-    print("The subject of the questions is personal coding related history.")
+    print("The purpose of engine_flat.py is to cause the value of a correct answer to remain the same, even when an incorrect answer is selected.")
+    print("It was placed into a separate file to act as a module, to make it easier to use and to understand, when writing new code.")
     print()
 
 

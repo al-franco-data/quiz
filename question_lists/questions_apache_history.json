@@ -1,0 +1,783 @@
+[
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Vásquex de Coronado first journey to what is now New Mexico?",
+    "answers": {
+      "A": "800",
+      "B": "1000",
+      "C": "1540",
+      "D": "1598"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Hernando de Alarcón travel up the Gulf of California in ships to exmpplore, and left letters for another Spaniard?",
+    "answers": {
+      "A": "800",
+      "B": "1000",
+      "C": "1540",
+      "D": "1598"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Coronado send Melchor Díaz to meet the ships of Alarcón, at which time he  recovered the letters, a few weeks after they were left?",
+    "answers": {
+      "A": "800",
+      "B": "1000",
+      "C": "1540",
+      "D": "1598"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Spaniards arrive in what is now New Mexico, with the intent to colonize?",
+    "answers": {
+      "A": "1540",
+      "B": "1598",
+      "C": "1602",
+      "D": "1627"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Juan de Oñate have to leave New Mexico for Mexico City (in New Spain) to face trial for charges of mismanagement and excessive cruelty, against both Spaniards and Indians--but most speecifically against the Acoma Pueblo?",
+    "answers": {
+      "A": "1540",
+      "B": "1598",
+      "C": "1608",
+      "D": "1610"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was Juan de Oñate officially banished from New Mexico, for life?",
+    "answers": {
+      "A": "1598",
+      "B": "1610",
+      "C": "1614",
+      "D": "1620"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Juan de Oñate return to Spain, never to return to the Americas?",
+    "answers": {
+      "A": "1614",
+      "B": "1620",
+      "C": "1627",
+      "D": "1680"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the Pueblo Revolt occur, including Pueblo, Ute, and other native peoples?",
+    "answers": {
+      "A": "1614",
+      "B": "1620",
+      "C": "1627",
+      "D": "1680"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the Spanish return north to New Mexico, after their 1680 banishment to the El Paso-Juarez area?",
+    "answers": {
+      "A": "1680",
+      "B": "1683",
+      "C": "1693",
+      "D": "1703"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Diego de Vargas die in Bernalillo, New Mexico, while leading a military campaign against Apache groups?",
+    "answers": {
+      "A": "1704",
+      "B": "1720",
+      "C": "1737",
+      "D": "1786"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Spanish officials report widespread Apache raids that destroyed ranches, mines, and missions across northern New Spain?",
+    "answers": {
+      "A": "1720",
+      "B": "1737",
+      "C": "1744",
+      "D": "1786"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year, about, was the (likely) Chiricahua Apache called El Compá born?",
+    "answers": {
+      "A": "1744",
+      "B": "1776",
+      "C": "1786",
+      "D": "1790"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year ended the six year period of peak years of Apache-Spanish warfare, with heavy casualties on both sides?",
+    "answers": {
+      "A": "1744",
+      "B": "1776",
+      "C": "1786",
+      "D": "1790"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did El Compá--an Apache from the Chiricahua Mountains--make peace with the Spaniards of Janos?",
+    "answers": {
+      "A": "1776",
+      "B": "1780",
+      "C": "1786",
+      "D": "1788"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was El Compá's son--Juan Jose--born?",
+    "answers": {
+      "A": "1776",
+      "B": "1780",
+      "C": "1786",
+      "D": "1788"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year, about, was Mangas Coloradas born?",
+    "answers": {
+      "A": "1786",
+      "B": "1788",
+      "C": "1790",
+      "D": "1794"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did El Compá move to live at Janos, with the Spaniards?",
+    "answers": {
+      "A": "1786",
+      "B": "1790",
+      "C": "1794",
+      "D": "1805"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did El Compá die of natural causes (likely at Janos)?",
+    "answers": {
+      "A": "1794",
+      "B": "1805",
+      "C": "1810",
+      "D": "1828"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Juan Jose--younger son of El Compá--begin his scholastic studies in the presidio school at Jaons, at the age of about 6?",
+    "answers": {
+      "A": "1790",
+      "B": "1794",
+      "C": "1805",
+      "D": "1810"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Juan Diego--El Compa's elder son and chief--have his 17 year old brother Juan Jose write a petition for permission to seek copper west of Santa Rita, NM, New Spain?",
+    "answers": {
+      "A": "1794",
+      "B": "1805",
+      "C": "1810",
+      "D": "1831"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year, about, was Cochise born?",
+    "answers": {
+      "A": "1794",
+      "B": "1805",
+      "C": "1810",
+      "D": "1831"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Mexico become a country, so replacing Spain as the colonial power in the area?",
+    "answers": {
+      "A": "1821",
+      "B": "1831",
+      "C": "1833",
+      "D": "1837"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Mexico's begin to have serious problems affording the rations to Apache that the Spanish had successfully fulfilled for 35 years?",
+    "answers": {
+      "A": "1821",
+      "B": "1828",
+      "C": "1831",
+      "D": "1837"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year were almost no rations available from Mexico, causing most Apache to be away from the Janos presido most of the time?",
+    "answers": {
+      "A": "1821",
+      "B": "1838",
+      "C": "1831",
+      "D": "1837"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Juan Jose and other peaceful Apache chiefs ride in from the back country with a small contingent of Apache to collect what turned out to be their final ration of food and supplies from Mexico?",
+    "answers": {
+      "A": "1831",
+      "B": "1837",
+      "C": "1846",
+      "D": "1851"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Mexico declare war on Apaches?",
+    "answers": {
+      "A": "1831",
+      "B": "1837",
+      "C": "1846",
+      "D": "1849"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was Juan Jose called a General of the Apaches--a similar title as given to his father, El Compá--and assigned a very large area of land for him to represent?",
+    "answers": {
+      "A": "1831",
+      "B": "1832",
+      "C": "1837",
+      "D": "1846"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was another Apache General called Fuerte also given a very large area of land to represent?",
+    "answers": {
+      "A": "1831",
+      "B": "1832",
+      "C": "1837",
+      "D": "1846"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was a sister to Juan Jose and Juan Diego killed outside Santa Rita del Cobre (likely within the permiiter of the modern mine) in what was then a part of Mexico?",
+    "answers": {
+      "A": "1831",
+      "B": "1832",
+      "C": "1833",
+      "D": "1837"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In April of which year did Juan Diego--elder son to El Compá and brother to Juan Jose, and much older--participate in peace talks with the Mexicans, near Santa Rita del Cobre?",
+    "answers": {
+      "A": "1836",
+      "B": "1837",
+      "C": "1843",
+      "D": "1846"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did three Apaches go to town at or near Santa Rita del Cobre, and were murdered?",
+    "answers": {
+      "A": "1831",
+      "B": "1836",
+      "C": "1837",
+      "D": "1843"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year were the Spanish-Mexican mines at Santa Rita del Cobre closed, due to water in the shafts?",
+    "answers": {
+      "A": "1836",
+      "B": "1837",
+      "C": "1843",
+      "D": "1846"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the Santa Rita Massacre occur, in what was then Mexico?",
+    "answers": {
+      "A": "1836",
+      "B": "1837",
+      "C": "1843",
+      "D": "1846"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did a son of Juan Jose--unnamed in the document--accept rations at Corralitos, about 75 miles south of the present NM border?",
+    "answers": {
+      "A": "1843",
+      "B": "1846",
+      "C": "1849",
+      "D": "1854"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the U.S. military arrive in Mexican New Mexico, and take over physically, though control remained contested for a few years?",
+    "answers": {
+      "A": "1843",
+      "B": "1846",
+      "C": "1849",
+      "D": "1854"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did New Mexico become a U.S. territory, setting the international border at the Gila River?",
+    "answers": {
+      "A": "1843",
+      "B": "1846",
+      "C": "1848",
+      "D": "1849"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was the Massacre at Janos, Chihuahua, Mexico by Sonora, Mexico soldiers against thee village of early 20's Geronimo, in which his young wife and their two small children were murdered?",
+    "answers": {
+      "A": "1846",
+      "B": "1849",
+      "C": "1851",
+      "D": "1854"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Mangas Coloradas sign (with his X) a treaty with the U.S., at Acoma (called the Santa Fe Treaty)?",
+    "answers": {
+      "A": "1846",
+      "B": "1849",
+      "C": "1851",
+      "D": "1852"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the Gasden Purchase take effect, thereby moving the international border south from the Gila River to its present location?",
+    "answers": {
+      "A": "1849",
+      "B": "1854",
+      "C": "1857",
+      "D": "1861"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did a Coinage Act make Spanish coins no longer a legal tender of the U.S.--including NM--the names of some Spanish coins and bills still recognizable in some Apache money words?",
+    "answers": {
+      "A": "1857",
+      "B": "1860",
+      "C": "1861",
+      "D": "1862"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was the .44 rimfire Henry Repeating Rifle patented?",
+    "answers": {
+      "A": "1857",
+      "B": "1860",
+      "C": "1861",
+      "D": "1862"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Cochise' Cut-the-Tent even (Bascom Affair) occur?",
+    "answers": {
+      "A": "1861",
+      "B": "1862",
+      "C": "1863",
+      "D": "1871"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the U.S. Civil War begin?",
+    "answers": {
+      "A": "1860",
+      "B": "1861",
+      "C": "1862",
+      "D": "1863"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was Cochise' brother (Coyuntura) hung by the U.S. people with Bascom?",
+    "answers": {
+      "A": "1861",
+      "B": "1862",
+      "C": "1863",
+      "D": "1870"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was the first transcontinental message sent coast-to-coast?",
+    "answers": {
+      "A": "1861",
+      "B": "1862",
+      "C": "1863",
+      "D": "1870"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was the Battle of Valverde (north of Fort Craig, NM), in which infamous U.S. Officer Bascom killed in battle?",
+    "answers": {
+      "A": "1857",
+      "B": "1860",
+      "C": "1861",
+      "D": "1863"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In July of which year did the Battle of Apache Pass occur?",
+    "answers": {
+      "A": "1857",
+      "B": "1860",
+      "C": "1861",
+      "D": "1862"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year--just south of present-day Hurley, NM--was Mangas Coloradas betrayed and murdered by U.S. soldiers?",
+    "answers": {
+      "A": "1832",
+      "B": "1852",
+      "C": "1862",
+      "D": "1863"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was Arizona declared a military district?",
+    "answers": {
+      "A": "1852",
+      "B": "1863",
+      "C": "1867",
+      "D": "1871"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In about which year was Ace Daklugie--son of Apache chief Juh, and nephew to Geronimo--born?",
+    "answers": {
+      "A": "1870",
+      "B": "1876",
+      "C": "1878",
+      "D": "1880"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Cochise die?",
+    "answers": {
+      "A": "1810",
+      "B": "1843",
+      "C": "1861",
+      "D": "1874"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Skinya (father-in-law to Naiche) challenge Taza regarding peace and reservation talks, leading to a skirmish in which Naiche killed Skinya, backing his brother Taza, the chief?",
+    "answers": {
+      "A": "1872",
+      "B": "1874",
+      "C": "1876",
+      "D": "1882"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did chief Taza die, in Washington D.C., likely of the flu?",
+    "answers": {
+      "A": "1872",
+      "B": "1874",
+      "C": "1876",
+      "D": "1882"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did the Chihennes move to Ojo Caliente?",
+    "answers": {
+      "A": "1874",
+      "B": "1876",
+      "C": "1877",
+      "D": "1882"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On April 19 of which year did Geronimo and followers for Loco's camp and many others to jump the rez and head south towards Juh's stronghold, in Mexico?",
+    "answers": {
+      "A": "1876",
+      "B": "1882",
+      "C": "1884",
+      "D": "1885"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On Sep 21 of which year did Juh die?",
+    "answers": {
+      "A": "1874",
+      "B": "1876",
+      "C": "1883",
+      "D": "1886"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On May 9 of which year were essentially all Chiricahua on a reservation together for the first time (San Carlos, then Turkey Creek east northeast of San Carlos)?",
+    "answers": {
+      "A": "1872",
+      "B": "1876",
+      "C": "1882",
+      "D": "1884"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was Kaetenae--one of the most active Chiricahua resistors to the new rez life--sentenced and sent to Alcatraz, in California?",
+    "answers": {
+      "A": "1884",
+      "B": "1885",
+      "C": "1886",
+      "D": "1908"
+    },
+    "correct_answer": "1884"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year was there not one Apache raid in the U.S.?",
+    "answers": {
+      "A": "1882",
+      "B": "1884",
+      "C": "1886",
+      "D": "1908"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On May 17 of which year was the last outbreak, by about 144 Chiricahua Apache?",
+    "answers": {
+      "A": "1884",
+      "B": "1885",
+      "C": "1886",
+      "D": "1908"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year were the Gatewood surrender talks, then the Sep 4 surrender of the followewers of Naiche and Geronimo?",
+    "answers": {
+      "A": "1884",
+      "B": "1885",
+      "C": "1886",
+      "D": "1908"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On Oct 3 of which year did two Apache (including Daklugie), under Mangus son of Mangas Coloradas, raid a ranch and capture 52 mules...after the Sept 4 surrender of Naiche, Geronimo, et al?",
+    "answers": {
+      "A": "1884",
+      "B": "1886",
+      "C": "1908",
+      "D": "1909"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On Oct 18 of which year did Mangas (son of Mangas Coloradas), young Daklugie, and others, finally surrender to the U.S., more than one month after the surrender of Naiche, Geronimo, et al?",
+    "answers": {
+      "A": "1884",
+      "B": "1886",
+      "C": "1908",
+      "D": "1909"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In June of which year was there a Chiricahua attack on two Mexicans near Opunto, Sonora, Mexico, by natculbaye (aka Jose Marias Elias)?",
+    "answers": {
+      "A": "1908",
+      "B": "1909",
+      "C": "1919",
+      "D": "1924"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "On Feb 17 of which year did Geronimo die still a POW, at Fort Sill, in Oklahoma?",
+    "answers": {
+      "A": "1908",
+      "B": "1909",
+      "C": "1919",
+      "D": "1924"
+    },
+    "correct_answer": ""
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In early April of which year was The Parting, which freed all Chiricahua Apache POW's to live either in OK or NM?",
+    "answers": {
+      "A": "1886",
+      "B": "1913",
+      "C": "1919",
+      "D": "1924"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Naiche die?",
+    "answers": {
+      "A": "1886",
+      "B": "1913",
+      "C": "1919",
+      "D": "1924"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In Sept of which year were there Chiricahua raids on ranches at both Skeleton Canyon and Animas Valley, both in New Mexico?",
+    "answers": {
+      "A": "1906",
+      "B": "1925",
+      "C": "1926",
+      "D": "1932"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In April and July of which year were there raids on Mexican ranches in Sonora, Mexico?",
+    "answers": {
+      "A": "1906",
+      "B": "1925",
+      "C": "1929",
+      "D": "1932"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did Ace Daklugie die?",
+    "answers": {
+      "A": "1906",
+      "B": "1949",
+      "C": "1955",
+      "D": "1974"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "apache.history",
+    "prompt": "In which year did a Mexican state's congress officially cancel laws from the 1840's and 1880's that provided bounty money for Apache scalps?",
+    "answers": {
+      "A": "1906",
+      "B": "1925",
+      "C": "1956",
+      "D": "2023"
+    },
+    "correct_answer": "D"
+  }
+]

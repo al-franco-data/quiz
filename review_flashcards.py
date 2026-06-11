@@ -1,3 +1,7 @@
+# review_flashcards.py
+# this file reviews the presented data by showing it, then pausing until the user selects ENTER
+# upon ENTER, the card is either turned over to show the answer, or left to focus on the next card
+
 def show_flashcard(question):
     print()
     print("=====================================")
@@ -6,7 +10,7 @@ def show_flashcard(question):
 
     print(question["prompt"])
 
-    input("Press ENTER to show the answer...")
+    _ = input("Press ENTER to show the answer...")
 
     correct_letter = question["correct_answer"]
     correct_answer = question["answers"][correct_letter]
@@ -15,7 +19,7 @@ def show_flashcard(question):
     print(correct_answer)
     print()
 
-    input("Press ENTER for next card...")
+    _ = input("Press ENTER for next card...")
 
 
 def play_review(questions):

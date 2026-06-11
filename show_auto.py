@@ -1,10 +1,13 @@
+# show_auto.py
+# this file shows or presents the questions and answers, without user input
+
 import time
 
 
 def show_item(question):
     print()
     print("=====================================")
-    print("SHOW MODE")
+    print("PRESENTATION MODE")
     print()
     print(question["prompt"])
 

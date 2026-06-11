@@ -1,3 +1,6 @@
+
+# this section imports objects from specific files
+
 from questions import questions
 from show_auto import play_show
 from review_flashcards import play_review
@@ -13,20 +16,24 @@ from scoring_25p import calculate_points
 # 4. train_drill_wrong.py
 # 5. quiz_multiple_choice.py
 
-5
+
+# this section displays the menu
 
 def show_menu():
     print()
     print("=====================================")
     print("QUIZ ENGINE MENU")
-    print("1. Show")
-    print("2. Review")
-    print("3. Match")
-    print("4. Train")
-    print("5. Quiz")
+    print("1. Presentation Mode")
+    print("2. Review Flashcards")
+    print("3. Match Answers to Question")
+    print("4. Train & Drill Those Missed")
+    print("5. Quiz - Multiple Choice")
+    print()
     print("Q. Quit")
     print()
 
+
+# this section uses logic to respond appropriately to choices 1-5 or q, and ONLY to those options
 
 while True:
     show_menu()

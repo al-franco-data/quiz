@@ -1,0 +1,27 @@
+# JSON test_pre_vs.json
+# To date, JSON has not yet worked in this quiz project
+
+[
+  {
+    "category": "testing.coding",
+    "prompt": "In which year did Colon arrive in the Americas?",
+    "answers": {
+      "A": "1492",
+      "B": "1493",
+      "C": "1500",
+      "D": "1600"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "category": "testing.coding",
+    "prompt": "Which LLM or AI is the most mature and useful as of June 2026?",
+    "answers": {
+      "A": "Perplexity",
+      "B": "DeepSeek",
+      "C": "Llama 3",
+      "D": "ChatGPT"
+    },
+    "correct_answer": "D"
+  }
+]
